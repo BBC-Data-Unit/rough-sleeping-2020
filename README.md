@@ -28,4 +28,7 @@ While charities welcomed the apparent decline, there are concerns that counting 
 * Line chart: Number of people counted or estimated to be sleeping outside on one night in Autumn, 2010-2019
 * Grouped bar chart: Number of rough sleepers on a single night, by region - 2018 vs 2019
 
+## Related repos
+
+This is the 11th story the data unit have done related to homelessness. You can [see all homelessness-related stories tagged 'homelessness' here](https://github.com/search?q=topic%3Ahomelessness+org%3ABBC-Data-Unit&type=Repositories)
 
